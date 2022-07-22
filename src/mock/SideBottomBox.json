@@ -1,0 +1,40 @@
+{
+    "SideBottomAnalysis": { 
+        "SideImageOne": [
+            {"SideAnalysisImageOne":"https://image.api.playstation.com/vulcan/ap/rnd/202109/1321/eFGBuaRr21HUpGtsy3biwJip.png",
+            "SideAnalysisImageLinkOne":"https://www.metacritic.com/game/playstation-5/gran-turismo-7"}
+            
+        
+        ],
+        "SideImageTwo": [
+            {"SideAnalysisImageTwo":"https://image.api.playstation.com/vulcan/ap/rnd/202206/0919/hq6KtnlrPbnUj7iNNI0V6gwe.png",
+            "SideAnalysisImageLinkTwo":"https://www.metacritic.com/game/xbox-one/teenage-mutant-ninja-turtles-shredders-revenge"}
+            
+        
+        ],
+        "SideImageThree": [
+            {"SideAnalysisImageThree":"https://areajugones.sport.es/wp-content/uploads/2022/06/cuphead-dlc-the-delicious-last-course-llega-en-junio.jpg",
+            "SideAnalysisImageLinkThree":"https://www.metacritic.com/game/pc/cuphead-in-the-delicious-last-course"}
+            
+        
+        ],
+        "SideImageFour": [
+            {"SideAnalysisImageFour":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkeABTrWEkuhnYA5ypWJIOFAo5lWKVJJmfYZdp6KJQOO7x5Wgf2h3SXio_jREVfG3Wma0&usqp=CAU",
+            "SideAnalysisImageLinkFour":"https://www.metacritic.com/game/pc/neon-white"}
+            
+        
+        ],
+        "SideImageFive": [
+            {"SideAnalysisImageFive":"https://sm.ign.com/ign_br/screenshot/default/final-fantasy-vi-pixel-remaster_wqub.jpg",
+            "SideAnalysisImageLinkFive":"https://www.metacritic.com/game/pc/final-fantasy-vi-pixel-remaster"}
+            
+        
+        ],
+        "SideImageSix": [
+            {"SideAnalysisImageSix":"https://www.gamespot.com/a/uploads/square_medium/1702/17023653/3953892-monsterhunterrisesunbreak(1).jpg",
+            "SideAnalysisImageLinkSix":"https://www.tecmundo.com.br/voxel/jogos/monster-hunter-rise-sunbreak/analise"}
+            
+            
+        ]
+    }
+}

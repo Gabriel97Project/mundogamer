@@ -1,0 +1,61 @@
+{
+    "SiteContent": { 
+        "SiteContentOne": [
+            {"SiteContentImageOne":"https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png",
+            "SiteContentSecondImageOne":"https://jogabilida.de/wp-content/uploads/2014/03/dkc2.jpg",
+            "SiteContentTitleOne":"1. Donkey Kong Country 2: Diddy's Kong Quest",
+            "SiteContentTitleLinkOne":"https://www.nintendo.pt/Jogos/Super-Nintendo/Donkey-Kong-Country-2-Diddy-s-Kong-Quest-276907.html",
+            "SiteContentNoteOne":"Nota IGN: 8.8/10",
+            "SiteContentTextOne":"Esta obra prima dispensa apresentações, um dos melhores jogos de super nintendo e de todas as gerações que vieram e estão por vir. O game tem uma jogabilidade que se adapta e pode ser aperfeiçoada ao estilo de cada jogador, os inimigos que exibem um nivel de dificuldade consideravel, senários de tirar o folego e ainda por cima conta com uma trilha sonora impecável que se encaixa perfeitamente com os senários e jogabilidade (eu, mesmo após 12 anos, ainda escuto as músicas e sinto a nostalgia e a satisfação hahaha),  no meu ponto de vista, o melhor jogo de todos os tempos.",
+            "SiteContentSecondTitleOne":"Sobre:",
+            "SiteContentSecondTextOne":"Após derrotar o Rei K. Rool, os Kongs voltam para as Ilhas DK com a reserva de bananas de Donkey Kong. Logo depois, DK estava relaxando quando o Flying Krock se aproxima da ilha. K. Rool (agora como Capitão K. Rool), envia os Kremlings para a ilha e seqüestra Donkey Kong. Ele só irá libertá-lo se a família Kong entregar a reserva de bananas de Donkey Kong para ele. Então, Diddy e Dixie vão para a Crocodile Isle (o lar dos Kremlings) para resgatá-lo. Para isso Diddy e Dixie precisam atravessar uma série de lugares da ilha, incluindo o Gangplank Galleon, o Crocodile Caudron, a Krazy Kremland e muitos outros."}
+        ],
+
+        "SiteContentTwo": [
+            {"SiteContentImageTwo":"https://criticalhits.com.br/wp-content/uploads/2022/06/rumor-god-of-war-ragnarok-chega-em-setembro-de-2022-1640688636722.jpg",
+                "SiteContentSecondImageTwo":"https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/07/God-of-War.jpg",
+                "SiteContentTitleTwo":"2. God of war ragnarok",
+                "SiteContentTitleLinkTwo":"https://www.playstation.com/pt-br/games/god-of-war-ragnark/",
+                "SiteContentNoteTwo":"Nota IGN: 10 / 10",
+                "SiteContentTextTwo":"A nota por sí só ja declara o nível de experiencia que você vai ter, um jogo lindo, incrivel, desafiante... Simplemente uma obra de arte.",
+                "SiteContentSecondTitleTwo":"Sobre:",
+                "SiteContentSecondTextTwo":"Da Santa Monica Studio, temos a sequência da versão de 2018 de God of War aclamada pela crítica. Kratos e Atreus devem viajar pelos Nove Reinos para encontrar respostas e se preparar para a batalha profetizada que causará o fim do mundo. Juntos, Kratos e Atreus embrenham-se pelos Nove Reinos em busca de respostas, enquanto as forças asgardianas preparam-se para guerra. Nessa jornada, eles explorarão paisagens míticas impressionantes, reunirão aliados de todos os reinos e enfrentarão inimigos temíveis, entre deuses nórdicos e monstros. À medida que a ameaça do Ragnarök se aproximar ainda mais, Kratos e Atreus terão de escolher entre a segurança de sua família e a segurança dos reinos…"}
+        
+        ],
+        "SiteContentThree": [
+            {"SiteContentImageThree":" https://tm.ibxk.com.br/2021/11/09/09191733039114.jpg?ims=1200x675",
+                "SiteContentSecondImageThree":"https://gamenewz.de/wp-content/uploads/2019/06/Elden-Ring-660x330.jpg",
+                "SiteContentTitleThree":"3. Elden ring",
+                "SiteContentTitleLinkThree":"https://en.bandainamcoent.eu/elden-ring/elden-ring",
+                "SiteContentNoteThree":"Nota IGN: 10 / 10",
+                "SiteContentTextThree":" tudo o que você sabe desde o início é que você toca como um manchado sem renome, abençoado pela graça, e é obrigado a fazer a viagem para as Terras Entre e se tornar um Senhor Elden. O que isso realmente significa, como alguém pode fazer isso, e o que o negócio é com aquela árvore dourada gigante brilhante são todas as coisas que você tem que descobrir a si mesmo. Como outros jogos do FromSoft, a grande história é difícil de digerir totalmente em um primeiro playthrough, especialmente porque não há nenhum diário no jogo para atualizá-lo sobre os eventos, personagens ou termos únicos que você encontra em dezenas de horas.",
+                "SiteContentSecondTitleThree":"Sobre:",
+                "SiteContentSecondTextThree":"Elden Ring é um jogo de RPG de ação de fantasia expansivo desenvolvido pela FromSoftware, Inc. sob a direção de Hidetaka Miyazaki e criado em colaboração com o famoso autor George R.R. Martin. O jogo se passa em um reino extenso mergulhado em uma história rica e sangrenta."}
+            
+        
+        ],
+        "SiteContentFour": [
+            {"SiteContentImageFour":" https://cdn.shopify.com/s/files/1/0375/3020/6345/products/image_original_90.jpg?v=1638463304",
+                "SiteContentSecondImageFour":"https://cdn.akamai.steamstatic.com/steam/apps/1238831/ss_c378ec3b0951e274244f337cf6fd42cd0ce875ed.1920x1080.jpg?t=1598622474",
+                "SiteContentTitleFour":"4. Battlefield 3",
+                "SiteContentTitleLinkFour":"https://www.ea.com/pt-br/games/battlefield/battlefield-3",
+                "SiteContentNoteFour":"Nota IGN: 9 / 10",
+                "SiteContentTextFour":" O velho e bom BF3 um dos melhores ja criados, simplemente incrivel , cenario interativo, som ambiente perfeito. A campanha tambem pode ser interessante, mas o grande diferencial é o multiplayer.",
+                "SiteContentSecondTitleFour":"Sobre:",
+                "SiteContentSecondTextFour":"Battlefield 3 reúne todos os elementos considerados pelos jogadores entusiastas como essenciais a bons jogos de tiro em primeira pessoa: gráficos hiper-realistas, amplos cenários exploráveis, um arsenal imponente de armas e muito caos! O posicionamento da câmera em primeira pessoa proporciona uma experiência única aos jogadores, é como estar com seu próprio corpo em meio a rajadas de balas e explosões colossais. Não é a toa que essa escolha de câmera deu origem a um dos gêneros mais aclamados dos games. O modo de carreira prende a atenção, mas o ponto alto da diversão de Battlefield 3 está em seu sistema multiplayer, que proporciona jogos rápidos, cheios de ação e resultados imprevisíveis, já que as decisões tomadas dentro do jogo são feitas por diversas pessoas diferentes e ao mesmo tempo. O jogo também proporciona um modo multiplayer colaborativo onde é possível jogar com mais um amigo em 10 mapas."}
+            
+        
+        ],
+        "SiteContentFive": [
+            {"SiteContentImageFive":"https://criticalhits.com.br/wp-content/uploads/2021/03/nfs-underground-2.jpg",
+                "SiteContentSecondImageFive":"https://sm.ign.com/t/ign_pt/screenshot/default/blob_8e5b.1200.jpg",
+                "SiteContentTitleFive":"5. Need for speed underground 2",
+                "SiteContentTitleLinkFive":"https://www.ea.com/pt-br/games/need-for-speed/need-for-speed-underground-2",
+                "SiteContentNoteFive":"Nota IGN: 9,1 / 10",
+                "SiteContentSecondTitleFive":"Sobre:",
+                "SiteContentSecondTextFive":"Need For Speed: Underground 2 é um jogo bastante completo que inova ao permitir, pela primeira vez, que o piloto explore uma cidade inteira livremente. Um mapa facilita a localização de eventos importantes, para que o usuário não se perca no mundo virtual amplo e rico de detalhes. O jogador começa ao escolher um dos 29 carros disponíveis no início. Com o passar o tempo, outros carros podem ser comprados. O game disponibiliza veículos famosos como Toyota Corolla, Mustang T3 e até mesmo o super cobiçado Audi A3. Todos os automóveis podem ser personalizados ao gosto do freguês, com opções de pinturas, pneus, aros, espelhos, vinis, decalques, neon, entre outras possibilidades. Cada veículo pode ser único. Tudo depende apenas de como o player quer customizá-lo. No decorrer da partida, o piloto ganha dinheiro por cada desafio conquistado. Com isso, pode adquirir melhorias para os carros, que incluem transmissão, suspensão, adição de nitro e novos freios. Tudo para que o jogador possa tirar o melhor proveito possível do carro que tem."}
+            
+        
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "FooterImagesJson": {
+        "FooterImageOne": [
+            {
+                "FooterImage": "https://www.pngarts.com/files/10/Facebook-Logo-Black-And-White-PNG-Image.png"
+            }
+        ],
+        "FooterImageTwo": [
+            {
+                "SecondFooterImage": "https://p.kindpng.com/picc/s/584-5842442_instagram-free-square-social-media-icons-hd-png.png"
+            }
+        ],
+        "FooterImageThree": [
+            {
+                "ThirdFooterImage": "https://thumbs.dreamstime.com/b/%C3%ADcone-do-logotipo-youtube-voronezh-r%C3%BAssia-de-novembro-quadrado-preto-164586300.jpg"
+            }
+        ]
+    }
+}

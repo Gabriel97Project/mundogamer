@@ -1,0 +1,55 @@
+{
+    "BottomNews":{
+        "BodyBottomNewsOne":[
+            {"linkBottom":"https://www.tecmundo.com.br/voxel/241021-esports-jogos-tem-pro-players-brasil.htm",
+            "imageBottomLink":"https://www.tecmundo.com.br/voxel/241021-esports-jogos-tem-pro-players-brasil.htm",
+            "imageBottom":"https://img.ibxk.com.br/2022/06/28/esport-pro-player-jogando-28131448451323.jpg?ims=704x",
+            "titleBottom":"Você sabe quais jogos tem mais pro playes brasileiros"}
+       ],
+       
+        "BodyBottomNewsTwo":[
+            {"linkBottomTwo":"https://www.tecmundo.com.br/voxel/241043-skyrim-novo-mod-tem-dragoes-majestosas-texturas-16k.htm",
+            "imageBottomTwo":"https://preview.redd.it/f6iemlh4bsb01.jpg?auto=webp&s=d075a73c5107ed1d896657e56b306d28863b1d21",
+            "imageLinkBottomTwo":"https://www.tecmundo.com.br/voxel/241043-skyrim-novo-mod-tem-dragoes-majestosas-texturas-16k.htm",
+            "titleBottomTwo":"MOD em skyrim deixa o game com texturas de 16k, confira:"}
+       ],
+      
+        "BodyBottomNewsThree":[
+            {"linkBottomThree":"https://www.tecmundo.com.br/voxel/240963-videos-mostram-gta-3-unreal-engine-5.htm",
+            "imageBottomLinkThree":"https://www.tecmundo.com.br/voxel/240963-videos-mostram-gta-3-unreal-engine-5.htm",
+            "imageBottomThree":"https://www.laps4.com/wp-content/uploads/2021/08/GTA-San-Andreas-remastered-ga.jpg",
+            "titleBottomThree":"Tem ideia de como seria GTA 3 no Unreal Engine 5?"}
+       ],
+       
+        "BodyBottomNewsFour":[
+            {"linkBottomFour":"https://www.tecmundo.com.br/voxel/177882-lista-de-trapacas-para-gta-5-armas-invencibilidade-avioes-e-mais-.htm",
+            "imageBottomLinkFour":"https://www.tecmundo.com.br/voxel/177882-lista-de-trapacas-para-gta-5-armas-invencibilidade-avioes-e-mais-.htm",
+            "imageBottomFour":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHPC8qRnZflt0CryYFrYx7QN8HPNZeht56g&usqp=CAU",
+            "titleBottomFour":"GTA 5: Tenha todas as armas, seja invencivel, pilote aviões e mais!"}
+       ],
+      
+        "BodyBottomNewsFive":[
+            {"linkBottomFive":"https://www.gamevicio.com/noticias/2022/06/quantic-lab-se-manifesta-apos-as-acusacoes-dos-bugs-presentes-em-cyberpunk-2077/",
+            "imageBottomLinkFive":"https://www.gamevicio.com/noticias/2022/06/quantic-lab-se-manifesta-apos-as-acusacoes-dos-bugs-presentes-em-cyberpunk-2077/",
+            "imageBottomFive":"https://s2.glbimg.com/tITZQ1uGl7rdMV_arJtlOiWyBkg=/0x0:1920x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/G/4/QS25eUSdylLNjfSakViw/cyberpunk-2077-home.jpg",
+            "titleBottomFive":"Quantic Lab se manifesta após as acusações dos bugs presentes em Cyberpunk 2077"}
+       ],
+       
+        "BodyBottomNewsSix":[
+            {"linkBottomSix":"https://www.gamevicio.com/noticias/2022/06/square-enix-anuncia-novo-rpg-harvestella/",
+            "imageBottomLinkSix":"https://www.gamevicio.com/noticias/2022/06/square-enix-anuncia-novo-rpg-harvestella/",
+            "imageBottomSix":"https://venturebeat.com/wp-content/uploads/2022/06/harvestella.jpg?fit=1200%2C672&strip=all",
+            "titleBottomSix":"Square Enix anuncia novo RPG HARVESTELLA"}
+       ],
+
+       "BodyBottomNewsSeven":[
+        {"linkBottomSeven":"https://www.gamevicio.com/noticias/2022/07/assista-aqui-18-minutos-de-gameplay-para-one-piece-odyssey/",
+        "imageBottomLinkSeven":"https://www.gamevicio.com/noticias/2022/07/assista-aqui-18-minutos-de-gameplay-para-one-piece-odyssey/",
+        "imageBottomSeven":"https://sm.ign.com/ign_br/news/o/one-piece-/one-piece-odyssey-jrpg-announced_4ec1.jpg",
+        "titleBottomSeven":"Assista aqui 18 minutos de gameplay para One Piece Odyssey"}
+        ]
+        
+        }
+      
+}
+

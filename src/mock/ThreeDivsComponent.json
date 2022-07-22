@@ -1,0 +1,41 @@
+{
+    "ThreeDivsMock":[
+         {
+            "linkOne":"https://gamerview.uai.com.br/artigos/games-em-destaque-2022/",
+            "imageOne":"https://www.gamebyte.com/wp-content/uploads/2022/02/81d64929-2022-release-dates.jpg" ,
+            "titleOne":"Games em destaque 2022",
+            "imageLink":"https://gamerview.uai.com.br/artigos/games-em-destaque-2022/"
+        },
+        {
+            "linkTwo":"https://tecnoblog.net/noticias/2021/12/09/the-game-awards-2021-conheca-o-goty-e-todos-os-vencedores-do-evento/",
+            "imageTwo":"https://t2.tudocdn.net/600608?w=1920" ,
+            "titleTwo":"The Game Awards 2021",
+            "imageLinkTwo":"https://tecnoblog.net/noticias/2021/12/09/the-game-awards-2021-conheca-o-goty-e-todos-os-vencedores-do-evento/"
+        },
+        {
+            "linkThree":"https://www.youtube.com/watch?v=U9SctR-PysA",
+            "imageThree":"https://geekometr.ru/images/Elden_Ring.jpg" ,
+            "titleThree":"Guia de parry no Elden ring",
+            "imageLinkThree":"https://www.youtube.com/watch?v=U9SctR-PysA"
+        },
+        {
+            "linkFour":"https://www.hostinger.com.br/tutoriais/11-sites-aprender-como-programar-de-graca",
+            "imageFour":"https://i.ytimg.com/vi/ZzV3VIgn8fI/maxresdefault.jpg" ,
+            "titleFour":"Desenvolva seu proprio game",
+            "imageLinkFour":"https://www.hostinger.com.br/tutoriais/11-sites-aprender-como-programar-de-graca"
+        },
+        {
+            "linkFive":"https://www.youtube.com/watch?v=A5Ty4mKFIVw",
+            "imageFive":"https://th.bing.com/th/id/R.de31bb4cb9f0433ce60f353c4e44ba59?rik=59d%2fR3LN3kOA2w&pid=ImgRaw&r=0" ,
+            "titleFive":"Novo mapa e passe de batalha: Battlefield 2042",
+            "imageLinkFive":"https://www.youtube.com/watch?v=A5Ty4mKFIVw"
+        },
+        {
+            "linkSix":"https://www.youtube.com/watch?v=yvW9JTzBrI8&ab_channel=GameplayEpc",
+            "imageSix":"https://i.ytimg.com/vi/yvW9JTzBrI8/maxresdefault.jpg" ,
+            "titleSix":"Elden ring: mago ou guerreiro? jogador faz piada com o tema",
+            "imageLinkSix":"https://www.youtube.com/watch?v=yvW9JTzBrI8&ab_channel=GameplayEpc"
+        }
+    ]   
+
+}

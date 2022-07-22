@@ -1,0 +1,25 @@
+{
+    "NewsPostTwo":[
+        {
+            "linkTwo":"https://gamernareal.com.br/10-curiosidades-dos-games-que-voce-nao-sabia/",
+            "imageTwo":"https://thumbs.dreamstime.com/b/m%C3%A3o-rob%C3%B3tica-e-ponto-de-interroga%C3%A7%C3%A3o-neon%C3%B4nico-sobre-fundo-verde-conceito-arte-futuro-tecnologia-perguntas-respostas-163114811.jpg" ,
+            "titleTwo":"Você sabia desses acontecimentos?",
+            "titlelinkTwo": "https://gamernareal.com.br/10-curiosidades-dos-games-que-voce-nao-sabia/"
+        },
+        {
+            "linkTwo":"https://www.people.com.br/noticias/games/conheca-os-6-maiores-campeonatos-de-games-do-mundo",
+            "imageTwo":"https://www.rbsdirect.com.br/filestore/8/0/7/9/3/8/2_3cce5dedaff02d8/2839708_40abd9c7a92999f.jpg?w=800&h=535&a=c%201x" ,
+            "titleTwo":"Você sabe quais são os 6 maiores campeonatos de games",
+            "titlelinkTwo": "https://www.people.com.br/noticias/games/conheca-os-6-maiores-campeonatos-de-games-do-mundo"
+        },
+        {
+            "linkTwo":"https://www.techtudo.com.br/noticias/2020/12/xbox-series-xs-consoles-da-microsoft-conseguem-emular-games-de-ps2.ghtml",
+            "imageTwo":"https://http2.mlstatic.com/10-jogos-patch-ps2-em-portugus-resident-evil-4-god-of-war-D_NQ_NP_615222-MLB25768885716_072017-F.jpg" ,
+            "titleTwo":"Jogadores do XBox conseguem emular ps2 no console",
+            "titlelinkTwo": "https://www.techtudo.com.br/noticias/2020/12/xbox-series-xs-consoles-da-microsoft-conseguem-emular-games-de-ps2.ghtml"
+        }
+    ]
+    
+    
+    
+}
